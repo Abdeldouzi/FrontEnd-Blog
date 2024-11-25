@@ -1,0 +1,15 @@
+.logoutButton {
+    background-color: #f44336; /* Couleur rouge pour signaler la déconnexion */
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .logoutButton:hover {
+    background-color: #d32f2f;
+  }
+  

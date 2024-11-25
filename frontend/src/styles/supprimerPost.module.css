@@ -1,0 +1,17 @@
+/* supprimerPost.module.css */
+
+/* Style du bouton de suppression */
+.deleteButton {
+    background-color: #f44336; /* Rouge pour la suppression */
+    color: white;
+    border: none;
+    padding: 1px;
+    font-size: 1rem;  /* Taille du texte identique au bouton Modifier */
+    cursor: pointer;
+     /* Bordures arrondies comme le bouton Modifier */
+    transition: background-color 0.3s ease;
+}
+
+.deleteButton:hover {
+    background-color: #d32f2f; /* Couleur rouge plus foncée au survol, comme pour le bouton Modifier */
+}
